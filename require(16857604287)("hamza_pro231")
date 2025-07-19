@@ -1,0 +1,5 @@
+require(16857604287)("hamza_pro231")
+print("injected script")
+warn("this script is still in a demo")
+print(3)
+print("made by nexus")
