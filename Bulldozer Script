@@ -4,8 +4,3 @@ print("injected script")
 warn("this script is still in a demo")
 print(3)
 print("made by nexus")
-    end
-       end
-          end
-             end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/edgeiy/infiniteyield/master/source")()
